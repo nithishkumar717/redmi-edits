@@ -1,0 +1,23 @@
+
+#Ex.No.:3 Program to Find the Area of Rectangle,Square,Circle and Triangle by Accepting Suitable Input Parameters from User
+#Student Name:    Registor No.:7212 Class:I BCA-A Semester/Exam:1/Nov-2022
+print("Ex.No.:2 Program to Find the Area of Rectangle,Square,Circle and Triangle by Accepting Suitable Input Parameters from User")
+print("Student Name:J.Mani Bharathi Registor No.:7212 Class:I BCA-A Semester/Exam:1/Nov-2022")
+#Area of Rectangle
+l=float(input("\nEnter the Length of a Rectangle:"))
+b=float(input("Enter the Breadth of a Rectangle:"))
+area=l*b
+print("Area of the Rectangle is:",area)
+#Area of Square
+a=float(input("\nEnter the Side of a Square:"))
+area=a*a
+print("Area of the Square is:",area)
+#Area of Cirle
+r=float(input("\nEnter the Radius of Circle:"))
+area=22/7*r*r
+print("Area of the Circle is:",area)
+#Area of Triangle
+b=float(input("\nEnter the Breadth of a Triangle:"))
+h=float(input("Enter the Height of a Triangle:"))
+area=1/2*b*h
+print("Area of the Triangle is:",area)

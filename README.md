@@ -1,2 +1,0 @@
-# redmi-edits
- Receptors
